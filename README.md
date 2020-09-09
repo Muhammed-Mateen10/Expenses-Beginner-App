@@ -1,6 +1,6 @@
-PERSONNEL EXPENSES APP
 ![Screen Shot](/SS/app.png)
 
+## Personnel Expenses App
 This is my second app.
 Learning is the process which never stops.
 
